@@ -1,0 +1,1 @@
+{"id":"org.quirkvod","version":"1.0.1","name":"Quirk VOD","description":"Alternative Streams.","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Quirk VOD"],"icon":"https://outdoor.surge.sh/logo.png","catalogs":[{"id":"Quirk VODcat","name":"Quirk VOD","type":"tv"}]}
